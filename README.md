@@ -1,64 +1,60 @@
-<h1 align="center">Olá, eu sou Marcelo Augusto 👋</h1>
+<h1 align="center">Olá! 👋 Eu sou Marcelo Augusto Ramos</h1>
 
 <p align="center">
-🎓 Estudante de Engenharia de Software • 💻 Desenvolvedor Python & JavaScript
+  Estudante de Engenharia de Software • Desenvolvedor Backend
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Engenharia de Software (2º ano - 4º semestre) e apaixonado por tecnologia.
+🎓 Estudante de Engenharia de Software (2º ano - 4º semestre)
 
-Tenho interesse principalmente em desenvolvimento backend, automação, APIs REST e banco de dados. Gosto de criar soluções práticas para resolver problemas do dia a dia e estou sempre buscando aprender novas tecnologias.
+💡 Apaixonado por tecnologia, desenvolvimento de software e automação.
+
+Atualmente estou focado em aprimorar meus conhecimentos em desenvolvimento Backend, APIs REST, Python e JavaScript, sempre buscando criar soluções práticas e eficientes.
 
 ---
 
 ## 🚀 Tecnologias
 
-### Linguagens
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,java,html,git,github,linux,mysql,vscode" />
+</p>
+
+### Principais conhecimentos
 
 - 🐍 Python
 - 🟨 JavaScript
-- ☕ Java (básico)
+- ☕ Java (Básico)
 - 🌐 HTML
-
-### Conhecimentos
-
 - 🔗 APIs REST
 - 🗄️ Banco de Dados
+- 🐧 Linux (Ubuntu)
 - 🌱 Git & GitHub
 
 ---
 
-## 📚 Formação
-
-🎓 Engenharia de Software
-
-- 2º Ano
-- 4º Semestre
-
----
-
-## 📈 Estatísticas
+## 📈 GitHub
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MarceloAugustoRamos&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAugustoRamos&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MarceloAugustoRamos&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAugustoRamos&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
 ## 🎯 Atualmente
 
-- 📖 Aprimorando Python
-- 🌐 Desenvolvendo APIs REST
-- 💡 Desenvolvendo projetos para ganhar experiência prática
+- 📚 Engenharia de Software
+- 🐍 Aprimorando Python
+- 🌐 Desenvolvimento de APIs REST
+- 🐧 Linux
+- ⚡ Automação de processos
 
 ---
 
 ## 📫 Contato
 
-📧 marcelo_au123@hotmail.com
-
-⭐ Obrigado por visitar meu perfil!
+- GitHub: https://github.com/MarceloAugustoRamos
