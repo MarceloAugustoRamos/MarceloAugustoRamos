@@ -2,7 +2,7 @@
 
 🎓 Estudante de Engenharia de Software (2º ano - 4º semestre)
 
-💻 Estudante de Engenharia de Software | Desenvolvedor em formação
+💻 Desenvolvedor em formação
 
 ---
 
