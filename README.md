@@ -43,15 +43,6 @@ Estou sempre em busca de aprender novas tecnologias e aplicar boas práticas de 
 
 ---
 
-## 📈 GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarceloAugustoRamos&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAugustoRamos&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
 ## 🎯 Atualmente
 
 - 📖 Aprofundando meus conhecimentos em Python e JavaScript.
